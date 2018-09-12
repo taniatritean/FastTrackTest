@@ -42,5 +42,7 @@ public class MedieAritmetica {
 
         //TODO - pt curiosi - INCERCATI SA GASITI PARTI COMUNE DE COD
         // SI SA EXTRAGETI METHODE/FUNCTII NOI IN ACEASTA CLASA si apoi sa le refolositi
+
+
     }
 }
