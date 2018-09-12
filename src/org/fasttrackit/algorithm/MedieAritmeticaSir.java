@@ -18,8 +18,8 @@ public class MedieAritmeticaSir {
         System.out.println("Media aritmentica a numerelor este " + mediaAritmetica);
 
 
-        //TODO IMPLEMENT WITH WHILE
-        //TODO IMPLEMENT WITH DO UNTIL
+        //TODO mandatory : IMPLEMENT WITH WHILE
+        //TODO Imandatory :MPLEMENT WITH DO UNTIL
         //TODO try to read the array from the console - as program arguments- you can use the method below or change it
 
 
@@ -34,7 +34,6 @@ public class MedieAritmeticaSir {
                 sumaNumere += argumentsToNumbersObjects[pas];
             }
         }
-        //TODO - try to implement the same thing with while and do
 
         mediaAritmetica = sumaNumere / sirNumere.length;
         System.out.println("Media aritmentica a numerelor ca OBIECTE este " + mediaAritmetica);
