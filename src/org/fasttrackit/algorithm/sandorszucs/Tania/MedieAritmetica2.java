@@ -1,4 +1,4 @@
-package org.fasttrackit.algorithm;
+package org.fasttrackit.algorithm.sandorszucs.Tania;
 
 /**
  * @author ttritean

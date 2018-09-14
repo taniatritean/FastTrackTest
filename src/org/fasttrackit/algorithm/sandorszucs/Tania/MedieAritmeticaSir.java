@@ -1,4 +1,4 @@
-package org.fasttrackit.algorithm.sandorszucs;
+package org.fasttrackit.algorithm.sandorszucs.Tania;
 
 /**
  * @author ttritean
@@ -84,7 +84,7 @@ public class MedieAritmeticaSir {
 
     //converts a string to a number oa Object
     private static Integer readNumberFromArgumentsAsObject(String[] args, int indexOfTheArgument) throws NumberFormatException {
-        Integer numberTwo = null; // NOTE THE DIFERENCE
+        Integer numberTwo = null; // NOTE THE DIFFERENCE
         if (args.length > indexOfTheArgument) {
             try {
                 numberTwo = Integer.parseInt(args[indexOfTheArgument]);
@@ -97,7 +97,7 @@ public class MedieAritmeticaSir {
 
     //converts a string to a number as Primitive
     private static int readNumberFromArgumentsAsPrimitve(String[] args, int indexOfTheArgument) throws NumberFormatException {
-        int numberTwo = 0; // NOTE THE DIFERENCE
+        int numberTwo = 0; // NOTE THE DIFFERENCE
         if (args.length > indexOfTheArgument) {
             try {
                 numberTwo = Integer.parseInt(args[indexOfTheArgument]);
