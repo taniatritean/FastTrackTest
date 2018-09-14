@@ -1,4 +1,5 @@
 package org.fasttrackit.algorithm.david;
+
 public class EleventhProbleme {
     public static void main(String[] args) {
         int n=4;

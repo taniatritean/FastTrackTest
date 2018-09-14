@@ -1,4 +1,5 @@
 package org.fasttrackit.algorithm.david;
+
 import java.util.Scanner;
 
 public class FirstProbleme {
