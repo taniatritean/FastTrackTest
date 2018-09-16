@@ -18,7 +18,9 @@ public class Exercise3 {
 
         for(int i = 0; i < numbers.length; ++i) {
             if (numbers[i] > largest) {
-                largest = numbers[i];
+                largest = numbers[i];//try just with one for - largest number can be computed while
+                // reading in order to avoid getting the elements twice - once to read and once to compute max
+                //like exercise2
             }
         }
 
