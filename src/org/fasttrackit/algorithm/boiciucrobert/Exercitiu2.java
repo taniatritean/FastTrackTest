@@ -14,9 +14,9 @@ public class Exercitiu2 {
             System.out.println("Scrie numarul: ");
             numbers[i] = sc.nextInt();
             sum += (double)numbers[i];
+            System.out.println("Suma numerelor este " + sum);
         }
 
-        double mean = sum / (double)numbers.length;
-        System.out.println("Suma numerelor este " + sum);
+
     }
 }
