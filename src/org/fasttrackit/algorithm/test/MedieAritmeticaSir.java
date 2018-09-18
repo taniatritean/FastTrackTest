@@ -32,5 +32,8 @@ public class MedieAritmeticaSir {
         System.out.println("Sum first number: " + sumFirstNumber);
         System.out.println("Sum second number: " + sumSecondNumber);
     }
+    public void methodaHoratiu(){
+        System.out.println("test");
+    }
 
 }
