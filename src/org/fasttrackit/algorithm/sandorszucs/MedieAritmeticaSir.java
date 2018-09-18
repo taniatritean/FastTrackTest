@@ -25,7 +25,7 @@ public class MedieAritmeticaSir {
         for (int index = 0; index <secondNumberString.length(); index++) {
             sumSecondNumber += Integer.parseInt(""+ secondNumberString.charAt(index));
         }
-        System.out.println("Sum first number: " + sumFirstNumber);
+        System.out.println("Sum first number:  " + sumFirstNumber);
         System.out.println("Sum second number: " + sumSecondNumber);
     }
 }
