@@ -31,6 +31,11 @@ public class MedieAritmeticaSir {
         }
         System.out.println("Sum first number: " + sumFirstNumber);
         System.out.println("Sum second number: " + sumSecondNumber);
+
+
+        }
+    public void methodSandor() {
+        System.out.println("Great Job! Keep working");
     }
 
 }
