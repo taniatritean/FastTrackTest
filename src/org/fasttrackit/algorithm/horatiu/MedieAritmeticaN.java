@@ -30,6 +30,7 @@ public class MedieAritmeticaN {
                 System.out.println("Averege of the number is " + average);
             }
         } catch (Exception err) {
+
             System.out.println("Must be number!");
         }
     }
