@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf7c2cb6-4967-4aff-8820-fccec9a43db6" name="Default Changelist" comment="">
+    <list default="true" id="bf7c2cb6-4967-4aff-8820-fccec9a43db6" name="Default Changelist" comment="marius p">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,9 +108,123 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="747994234">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="21" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-256752357">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="21" />
+          <entry key="java" value="467" />
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="467" />
+          <entry key="PLAIN_TEXT" value="33" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/boiciucrobert/Exercitiu2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="9" selection-start-column="32" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/girdavasile/MediaAritmeticaSir.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/horatiu/MedieAritmeticaHoratiu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/nagymartin/MediaAritmeticaMartin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -152,6 +267,10 @@
         <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/TODO1.java" />
         <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/boiciucrobert/Exercitiu1.java" />
         <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/boiciucrobert/Exercitiu2.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu4.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/girdavasile/Problema1.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/nagymartin/MediaAritmeticaMartin.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/girdavasile/MediaAritmeticaSir.java" />
       </list>
     </option>
   </component>
@@ -162,8 +281,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="554" />
-    <option name="width" value="697" />
+    <option name="x" value="553" />
+    <option name="width" value="698" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -172,30 +291,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="FastTrackTest2" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Homework" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="FastTrackTest2" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Homework" type="616d4139:PackageViewModuleNode" />
-              <item name="org.fasttrackit.algorithm" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="FastTrackTest2" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Homework" type="616d4139:PackageViewModuleNode" />
-              <item name="org.fasttrackit.algorithm" type="1f31426a:PackageElementNode" />
-              <item name="tania" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,174 +316,49 @@
               <item name="FastTrackTest2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="iulia" type="462c0819:PsiDirectoryNode" />
+              <item name="girdavasile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FastTrackTest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FastTrackTest2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="horatiu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FastTrackTest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FastTrackTest2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="sandorszucs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FastTrackTest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FastTrackTest2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="sandorszucs" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537292371580" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537292528254" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/EighthProbleme.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/TwelvethProbleme.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/andrei/MediaAritmeticaSir.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ClasaFastTrack.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/MedieAritmeticaSir.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/Problema12Clasa.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/horatiu/test.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu2.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu3.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu4.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu5.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu6.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu7.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu8.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/mediearitmeticaMarius.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise10.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise11.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise13.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise14.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise15.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise2.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise3.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise4.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise5.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise6.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise7.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise8.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise9.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise10.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise11.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise13.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise14.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise15.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise2.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise3.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise4.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise5.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise6.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise7.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise8.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise9.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaPrograms\FastTrackTest2\src\org\fasttrackit\algorithm\mariusp" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -400,26 +372,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercitiu2">
+  <component name="RunManager" selected="Application.MediaAritmeticaSir">
     <configuration name="Exercitiu1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.boiciucrobert.Exercitiu1" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.fasttrackit.algorithm.boiciucrobert.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercitiu19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.andreeasauchea.Exercitiu19" />
-      <module name="Homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.fasttrackit.algorithm.andreeasauchea.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -453,6 +412,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MediaAritmeticaSir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.girdavasile.MediaAritmeticaSir" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fasttrackit.algorithm.girdavasile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TODO2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.david.TODO2" />
       <module name="Homework" />
@@ -467,19 +439,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Exercitiu19" />
       <item itemvalue="Application.Exercitiu20" />
       <item itemvalue="Application.TODO2" />
       <item itemvalue="Application.Exercitiu1" />
       <item itemvalue="Application.Exercitiu2" />
+      <item itemvalue="Application.MediaAritmeticaSir" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MediaAritmeticaSir" />
         <item itemvalue="Application.Exercitiu2" />
         <item itemvalue="Application.Exercitiu1" />
         <item itemvalue="Application.TODO2" />
         <item itemvalue="Application.Exercitiu20" />
-        <item itemvalue="Application.Exercitiu19" />
       </list>
     </recent_temporary>
   </component>
@@ -493,6 +465,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536905375155</updated>
+      <workItem from="1537287332857" duration="4694000" />
     </task>
     <task id="LOCAL-00001" summary="Exercitiu1">
       <created>1537218338341</created>
@@ -501,11 +474,25 @@
       <option name="project" value="LOCAL" />
       <updated>1537218338341</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="marius p">
+      <created>1537286399265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537286399265</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1537292320028</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537292320028</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55000" />
+    <option name="totallyTimeSpent" value="4694000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -518,25 +505,28 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25945538" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26701966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19639935" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19639935" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="8" side_tool="true" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.2111293" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.2111293" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -547,12 +537,17 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercitiu1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercitiu1" />
+    <MESSAGE value="marius p" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PracticeJava.iml">
@@ -755,24 +750,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise2.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="38" selection-start-line="4" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu7.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu8.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu6.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu5.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/boiciucrobert/Exercitiu2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/girdavasile/MedieAritmeticaSir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/nagymartin/MediaAritmeticaMartin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="9" selection-start-column="32" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/horatiu/MedieAritmeticaHoratiu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/girdavasile/MediaAritmeticaSir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>

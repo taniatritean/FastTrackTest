@@ -5,6 +5,7 @@ import java.util.Scanner;
 //Se da un sir de numere ordonate crescator. 
 //Se va determina daca un numar n exista in sir, si daca exista se va afisa pozitia pe care s-a
 //gasit, altfel se va afisa -1.( o sa citesc un sir o sa-l ordonez apoi o sa raspund cerintei)
+
 public class exDaniel {
 
     public static void main(String[] args) {
