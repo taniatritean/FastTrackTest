@@ -110,7 +110,4 @@ public class MedieAritmeticaSir {
 
     }
 
-    private static void methodAdri(){
-        System.out.println(":)");
-    }
 }

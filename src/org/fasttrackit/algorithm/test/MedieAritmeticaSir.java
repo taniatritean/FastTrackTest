@@ -36,4 +36,8 @@ public class MedieAritmeticaSir {
         }
     }
 
+    private static void methodAdriana(){
+        System.out.println(":)");
+    }
+
 }
