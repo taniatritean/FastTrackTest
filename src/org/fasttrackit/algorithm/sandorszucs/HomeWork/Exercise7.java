@@ -1,4 +1,4 @@
-package org.fasttrackit.algorithm.sandorszucs.HomeWork;
+package org.fasttrackit.algorithm.sandorszucs.homework;
 import java.util.Scanner;
 
 public class Exercise7 {
