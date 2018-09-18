@@ -2,24 +2,27 @@ package org.fasttrackit.algorithm.girdavasile;
 
 public class MediaAritmeticaSir {
 
+//scrap
 
-    public static void main(String[] args){
+    String firstNumberstring = "" + firstNumber;
+    String firstnumberstring = Integer.toString(FirstNumber);
+    int sumFirstNumber = 0
+int index = 0;
+            for(
 
-        int FirstNumber = 201;
+    {
+        sumFirstNumber += Integer.parseIn
+    }index<firstNumberString.length();index++)
+
+    public static void main(String[] args) {
+
+        int firstNumber = 201;
         int secondNumber = 123;
 
         int sum;
 
-        sum = FirstNumber + secondNumber;
+        sum = firstNumber + secondNumber;
         System.out.println("suma numerelor este " + sum);
-    }
-    String firstNumberstring = "" + FirstNumber;
-
-    firstnumberstring = Integer.toString(FirstNumber);
-
-    int sumFirstNumber = 0
-            for(int index=0;index<firstNumberString.length();index++)  {
-                sumFirstNumber+=Integer.parseIn
     }
 }
 
