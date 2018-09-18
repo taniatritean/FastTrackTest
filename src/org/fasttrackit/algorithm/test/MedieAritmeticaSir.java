@@ -33,8 +33,9 @@ public class MedieAritmeticaSir {
         System.out.println("Sum second number: " + sumSecondNumber);
     }
 
-
     public void methodaGeorgiana() {
         System.out.println("Hellooooo");
     }
-}
+    public void methodaTania() {
+        System.out.println("Hello");
+    }   }
