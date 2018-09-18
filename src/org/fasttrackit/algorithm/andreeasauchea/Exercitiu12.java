@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class Exercitiu12 {
     public static void main(String[] args) {
-        int[] sir = {11, 34, 35, 10, 9, 1, 123, 100, 101, 110, 111, 34};
+        int[] sir = {11, 34, 35, 10, 9, 1, 123, 100, 101, 110, 200, 111, 34};
         Arrays.sort(sir);
         int[] cifraControl = new int[sir.length];
         for (int i = 0; i < sir.length; i++) {
