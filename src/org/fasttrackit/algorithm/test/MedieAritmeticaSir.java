@@ -33,9 +33,33 @@ public class MedieAritmeticaSir {
         System.out.println("Sum second number: " + sumSecondNumber);
     }
 
+    public void methodaVasile() {
+        System.out.println("hey");
+    }
 
+    private static void methodAdriana() {
+        System.out.println(":)");
+    }
+
+    public void methodaTania() {
+        System.out.println("Hello");
+    }
+
+    public void methodaFlorin() {
+        System.out.println("aiaiai!");
+    }
+
+    public void methodaTaniaB() {
+        //test
+    }
+    public void metodaHoratiu () {
+        System.out.println ("test");
+    }
+
+    public void metodaAndreeaSauchea(){
+        System.out.println("Vrem conflict :))");
+    }
     public void  methodAlex() {
         System.out.println("Bonjour");
     }
-
 }
