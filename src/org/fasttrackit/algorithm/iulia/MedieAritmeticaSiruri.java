@@ -5,26 +5,32 @@ package org.fasttrackit.algorithm.iulia;
 //int[] sir ={12, 34,35, 11,34};
 
 public class MedieAritmeticaSiruri {
-    public static void main(String[] args) {
-        int firstnumber = 201;
-        int secondnumber = 123;
+    public static void main(String args[]) {
+
+        int firstNumber = 201;
+        int secondNumber = 123;
         int sum;
 
-        sum = firstnumber + secondnumber;
-        System.out.println("Suma numerelor: " + sum);
+        sum = firstNumber + secondNumber;
+        System.out.println("Suma numerelor este: " + sum);
 
+        String firstNumberString = "" + firstNumber;
 
-        String firstnumberstring = "" + firstnumber;
+        firstNumberString = Integer.toString(firstNumber);
+        String secondNumberString = Integer.toString(secondNumber);
 
-        firstnumberstring = Integer.toString(firstnumber);
-        String secondnumberstring = Integer.toString(secondnumber);
+        int sumFirstNumber = 0;
 
-        int sumfirstnumber = 0;
-
-        for (int index = 0; index < firstnumberstring.length(); index++) {
-
-            sumfirstnumber += Integer.parseInt("" + firstnumberstring.charAt(index));
+        for (int index = 0; index <firstNumberString.length(); index++) {
+            sumFirstNumber += Integer.parseInt(""+ firstNumberString.charAt(index));
         }
+
+        int sumSecondNumber = 0;
+        for (int index = 0; index <secondNumberString.length(); index++) {
+            sumSecondNumber += Integer.parseInt(""+ secondNumberString.charAt(index));
+        }
+        System.out.println("Sum first number:  " + sumFirstNumber);
+        System.out.println("Sum second number: " + sumSecondNumber);
     }
 }
 
