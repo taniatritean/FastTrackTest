@@ -31,13 +31,26 @@ public class MedieAritmeticaSir {
         }
         System.out.println("Sum first number: " + sumFirstNumber);
         System.out.println("Sum second number: " + sumSecondNumber);
-        public void methodaVasile() {
-            System.out.println("hey");
-        }
     }
 
-    private static void methodAdriana(){
+    public void methodaVasile() {
+        System.out.println("hey");
+    }
+
+    private static void methodAdriana() {
         System.out.println(":)");
+    }
+
+    public void methodaTania() {
+        System.out.println("Hello");
+    }
+
+    public void methodaFlorin() {
+        System.out.println("aiaiai!");
+    }
+
+    public void methodaTaniaB() {
+        //test
     }
 
 }
