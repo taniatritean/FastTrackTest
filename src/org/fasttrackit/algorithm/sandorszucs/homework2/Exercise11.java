@@ -1,4 +1,4 @@
-package org.fasttrackit.algorithm.sandorszucs.homework;
+package org.fasttrackit.algorithm.sandorszucs.homework2;
 
 
 public class Exercise11 {
