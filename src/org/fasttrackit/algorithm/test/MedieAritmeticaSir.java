@@ -34,3 +34,6 @@ public class MedieAritmeticaSir {
     }
 
 }
+public void  methodaFlorin(){
+    System.out.println("aiaiai!");
+}
