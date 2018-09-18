@@ -106,6 +106,8 @@ public class MedieAritmeticaSir {
             }
         }
         return numberTwo;
+
+
     }
 
 }
