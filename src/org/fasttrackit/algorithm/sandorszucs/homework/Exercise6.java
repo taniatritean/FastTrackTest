@@ -1,4 +1,4 @@
-package org.fasttrackit.algorithm.sandorszucs.homework2;
+package org.fasttrackit.algorithm.sandorszucs.homework;
 
 public class Exercise6 {
     public static void main(String[] args) {
