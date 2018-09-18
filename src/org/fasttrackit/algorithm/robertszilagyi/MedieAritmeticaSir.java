@@ -17,20 +17,25 @@ public class MedieAritmeticaSir
 
         int sum;
 
+
        sum = firstNumber + secondNumber;
 
        System.out.print("Suma numerelor este :" + sum);
 
        String firstNumberString = ""+firstNumber;
 
+       firstNumberString = Integer.toString((firstNumber));
 
        String secondNumberString = Integer.toString(secondNumber);
 
        int sumFirstNumber = 0;
-
+        for(int index=0; index < firstNumberString.length();index++)
+        {
+            sumFirstNumber+=Integer.parseInt(""+firstNumberString.charAt(index));
+        }
 
        int sumSecondNumber = 0;
-       for(int index=0;index<secondNumberString.length();index++)
+       for(int index=0; index < secondNumberString.length();index++)
        {
            sumSecondNumber+=Integer.parseInt(""+secondNumberString.charAt(index));
        }
