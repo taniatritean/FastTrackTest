@@ -20,15 +20,14 @@ public class MedieAritmeticaN {
                     numbers[i] = sc.nextDouble();
                     if (numbers[i] > 0) {
                         sum += numbers[i];
-                        double average = sum / numbers.length;
-                        System.out.println("Averege of the number is " + average);
+
                     } else {
                         System.out.println("Number must be positiv!");
                         break;
-                    }
+                        }
                 }
-
-
+                double average = sum / numbers.length;
+                System.out.println("Averege of the number is " + average);
             }
         } catch (Exception err) {
             System.out.println("Must be number!");
