@@ -38,4 +38,11 @@ public class MedieAritmeticaSir {
         System.out.println("Great Job! Keep working");
     }
 
+    private static int kevinWow(int x){
+        return x*x*x;
+    }
+
+}
+public void  methodaFlorin(){
+    System.out.println("aiaiai!");
 }
