@@ -108,7 +108,7 @@ public class MedieAritmeticaSir {
         return numberTwo;
     }
 
-    private static void methodAdriana(){
+    private static void methodAdri(){
         System.out.println(":)");
     }
 }
