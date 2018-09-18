@@ -59,6 +59,13 @@ public class MedieAritmeticaSir {
     public void methodaTaniaB() {
         //test
     }
+    public void metodaHoratiu () {
+        System.out.println ("test");
+    }
+
+    public void metodaAndreeaSauchea(){
+        System.out.println("Vrem conflict :))");
+    }
 
 }
 
