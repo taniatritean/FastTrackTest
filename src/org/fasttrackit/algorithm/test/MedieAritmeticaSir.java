@@ -51,7 +51,7 @@ public class MedieAritmeticaSir {
     public void methodaTania() {
         System.out.println("Hello");
     }
-    public void methodaTania() {
-        System.out.println("Hello");
+    public void metodaAndreeaSauchea() {
+        System.out.println("Vrem conflict :))");
     }
 }
