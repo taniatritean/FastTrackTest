@@ -37,4 +37,8 @@ public class MedieAritmeticaSir {
     public void methodaTania() {
         System.out.println("Hello");
     }
+
+    public void methodaTaniaB() {
+        //test
+    }
 }
