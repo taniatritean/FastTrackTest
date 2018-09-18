@@ -36,4 +36,15 @@ public class MedieAritmeticaSir {
     public void metodaMarius(){
         System.out.println("Hey");
     }
+    public void methodaTania() {
+        System.out.println("Hello");
+    }
+}
+
+    public void methodaTania() {
+        System.out.println("Hello");
+    }
+    public void metodaMarius(){
+        System.out.println("Hey");
+    }
 }
