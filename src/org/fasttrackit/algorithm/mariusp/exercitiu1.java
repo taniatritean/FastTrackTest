@@ -7,12 +7,12 @@ public class exercitiu1 {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Primul numar=");
-        int a = input.nextInt();
+        double a = input.nextDouble();
 
         System.out.println("Al doilea numar=");
-        int b=input.nextInt();
+        double b=input.nextDouble();
 
-        int c = (a + b) / 2;
+        double c = (a + b) / 2;
         System.out.println("Media aritmetica este:" + c);
 
     }
