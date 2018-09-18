@@ -47,11 +47,11 @@ public class MedieAritmeticaSir {
     public void  methodaFlorin(){
         System.out.println("aiaiai!");
     }
-
-    public void methodaTania() {
-        System.out.println("Hello");
-    }
     public void metodaAndreeaSauchea() {
         System.out.println("Vrem conflict :))");
     }
+    private static void methodAdriana(){
+        System.out.println(":)");
+    }
+
 }
