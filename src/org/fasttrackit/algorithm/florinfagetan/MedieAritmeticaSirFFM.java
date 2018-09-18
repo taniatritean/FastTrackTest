@@ -1,3 +1,4 @@
+package org.fasttrackit.algorithm.florinfagetan;
 public class MedieAritmeticaSirFFM {
 
     public static void main(String[] args) {
