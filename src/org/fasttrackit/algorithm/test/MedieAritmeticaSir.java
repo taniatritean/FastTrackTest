@@ -31,10 +31,18 @@ public class MedieAritmeticaSir {
         }
         System.out.println("Sum first number: " + sumFirstNumber);
         System.out.println("Sum second number: " + sumSecondNumber);
+
+
+        }
+    public void methodSandor() {
+        System.out.println("Great Job! Keep working");
+    }
+    public void methodaHoratiu(){
+        System.out.println("test");
     }
 
     private static int kevinWow(int x){
-        return x*x*x;
+        return x*x*x*x;
     }
 
     public void methodaTania() {
