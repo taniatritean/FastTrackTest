@@ -33,4 +33,9 @@ public class MedieAritmeticaSir {
         System.out.println("Sum second number: " + sumSecondNumber);
     }
 
+
+    public void  methodAlex() {
+        System.out.println("Bonjour");
+    }
+
 }
