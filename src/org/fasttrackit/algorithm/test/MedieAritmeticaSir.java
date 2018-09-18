@@ -33,12 +33,20 @@ public class MedieAritmeticaSir {
         System.out.println("Sum second number: " + sumSecondNumber);
     }
 
+    private static int kevinWow(int x){
+        return x*x*x;
+    }
 
     public void methodaTania() {
         System.out.println("Hello");
     }
 
+    public void  methodaFlorin(){
+        System.out.println("aiaiai!");
+    }
+
     public void methodaTaniaB() {
         //test
     }
+
 }
