@@ -1,7 +1,7 @@
 package org.fasttrackit.algorithm.nagymartin;
 
 public class MediaAritmetica {
-}//the name and declaration of this method must be the same always
+//the name and declaration of this method must be the same always
     public static void main(String args[]) {
 
         //here we read the first argument given when running the program
