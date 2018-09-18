@@ -5,6 +5,7 @@ public class MediaAritmeticaSir {
 
         int firstNumber = 201;
         int secondNumber = 123;
+
         int sum;
 
         sum = firstNumber + secondNumber;
