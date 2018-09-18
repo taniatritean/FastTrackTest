@@ -1,7 +1,12 @@
-package org.fasttrackit.algorithm.nagymartin;
+package org.fasttrackit.algorithm.adrianapodut;
 
-public class MediaAritmeticaMartin {
-//the name and declaration of this method must be the same always
+/**
+ * @author ttritean
+ * @since 9/11/2018
+ */
+public class MedieAritmeticaAdrianaPodut {
+
+    //the name and declaration of this method must be the same always
     public static void main(String args[]) {
 
         //here we read the first argument given when running the program
@@ -17,6 +22,7 @@ public class MediaAritmeticaMartin {
                 return;
             }
         }
+
 
 
         //here we read the second argument -index 1 - given when running the program
@@ -41,4 +47,5 @@ public class MediaAritmeticaMartin {
 
 
     }
+
 }
