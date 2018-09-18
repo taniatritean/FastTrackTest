@@ -33,6 +33,10 @@ public class MedieAritmeticaSir {
         System.out.println("Sum second number: " + sumSecondNumber);
     }
 
+
+    public void methodaTania() {
+        System.out.println("Hello");
+    }
     public void metodaAndreeaSauchea(){
         System.out.println("Vrem conflict :))");
     }
