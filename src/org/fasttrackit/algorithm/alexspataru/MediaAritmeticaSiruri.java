@@ -7,43 +7,41 @@ public class MediaAritmeticaSiruri {
 
        int[] sir ={12, 34,35, 11,34}; */
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
-            int  firstNumber = 200;
-            int  secondNumber = 123;
+        int firstNumber = 200;
+        int secondNumber = 123;
 
-            int sum;
+        int sum;
+        int index=0;
 
-                 sum = firstNumber + secondNumber;
+        sum = firstNumber + secondNumber;
 
-            System.out.println("Suma numerelor este: " + sum);
+        System.out.println("Suma numerelor este: " + sum);
 
-            String firstNumberString = "" + firstNumber;
-            secondNumberString = Integer.toString(secondNumber);
+        String firstNumberString = "" + firstNumber;
+        firstNumberString = Integer.toString(firstNumber);
+        String secondNumberString = Integer.toString(secondNumber);
 
-            int sumFirstNumber = 0;
+        int sumFirstNumber = 0;
 
-            for (int index = 0; index < firstNumberString.length(); index++);
-        {
-            sumFirstNumber += sumFirstNumber + Integer.parseInt(firstNumberString.charAt(index));
+        for ( index = 0; index < firstNumberString.length(); index++) ;
 
-            System.out.println("Sum first number" + sumFirstNumber);
+        sumFirstNumber += sumFirstNumber + Integer.parseInt("" + firstNumberString.charAt(index));
 
-            String secondNumberString = "" + secondNumber;
-            secondNumber = Integer.toString(secondNumber);
+        System.out.println("Sum first number" + sumFirstNumber);
 
             int sumSecondNumber = 0;
 
-            for (int index = 0; index < secondNumberString.length(); index++);
-            sumSecondNumber += sumSecondNumber + Integer.parseInt(secondNumberString.charAt(index));
-
-            for(int index=0; index <secondNumberString )
-        }
-
+            for ( index = 0; index < secondNumberString.length(); index++);
+            sumSecondNumber += sumSecondNumber + Integer.parseInt("" + secondNumberString.charAt(index));
 
         }
 
 
-}
+        }
+
+
+
 
 
