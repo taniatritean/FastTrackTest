@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7c2cb6-4967-4aff-8820-fccec9a43db6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/algorithm/boiciucrobert/Exercitiu2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -110,35 +109,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="38" selection-start-line="4" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/boiciucrobert/Exercitiu2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -184,6 +155,12 @@
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="554" />
     <option name="width" value="697" />
@@ -195,60 +172,221 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
+      <pane id="PackagesPane">
         <subPane>
           <expand>
             <path>
-              <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
+              <item name="FastTrackTest2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Homework" type="616d4139:PackageViewModuleNode" />
             </path>
             <path>
-              <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FastTrackTest2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Homework" type="616d4139:PackageViewModuleNode" />
+              <item name="org.fasttrackit.algorithm" type="1f31426a:PackageElementNode" />
             </path>
             <path>
-              <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="boiciucrobert" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="sandorszucs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="sandorszucs" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="FastTrackTest2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Homework" type="616d4139:PackageViewModuleNode" />
+              <item name="org.fasttrackit.algorithm" type="1f31426a:PackageElementNode" />
+              <item name="tania" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FastTrackTest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FastTrackTest2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FastTrackTest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FastTrackTest2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FastTrackTest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FastTrackTest2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FastTrackTest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FastTrackTest2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="iulia" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537219200985" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537292371580" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/EighthProbleme.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/TwelvethProbleme.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/andrei/MediaAritmeticaSir.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ClasaFastTrack.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/MedieAritmeticaSir.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/Problema12Clasa.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/horatiu/test.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu1.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu2.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu3.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu4.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu5.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu6.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu7.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu8.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/mediearitmeticaMarius.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise1.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise10.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise11.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise13.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise14.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise15.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise2.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise3.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise4.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise5.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise6.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise7.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise8.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise9.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise1.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise10.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise11.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise13.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise14.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise15.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise2.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise3.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise4.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise5.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise6.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise7.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise8.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise9.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -366,6 +504,9 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55000" />
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -377,7 +518,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25945538" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -394,7 +534,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="8" side_tool="true" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.2111293" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
