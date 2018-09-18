@@ -34,7 +34,7 @@ public class MedieAritmeticaSir {
     }
 
     private static int kevinWow(int x){
-        return x*x;
+        return x*x*x;
     }
 
 }
