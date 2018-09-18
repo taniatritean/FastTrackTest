@@ -59,7 +59,12 @@ public class MedieAritmeticaSir {
     public void metodaAndreeaSauchea(){
         System.out.println("Vrem conflict :))");
     }
+
+    private static double keviiiiin(int x){
+        return Math.pow(x,4);
+    }
     public void  methodAlex() {
         System.out.println("Bonjour");
     }
+}
 }
