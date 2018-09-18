@@ -1,7 +1,7 @@
 package org.fasttrackit.algorithm.horatiu;
 
 
-public class MedieAritmeticaHoratiu {
+public class test {
     public static void main (String[] args){
         int firstnumber = 200;
         int secondnumber = 123;
