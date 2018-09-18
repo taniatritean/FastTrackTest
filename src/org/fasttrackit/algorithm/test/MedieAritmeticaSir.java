@@ -48,4 +48,8 @@ public class MedieAritmeticaSir {
         System.out.println("aiaiai!");
     }
 
+    private static void methodAdriana(){
+        System.out.println(":)");
+    }
+
 }
