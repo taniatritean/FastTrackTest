@@ -42,7 +42,7 @@ public class MedieAritmeticaSir {
     }
 
     private static int kevinWow(int x){
-        return x*x*x*x;
+        return x*x*x*x*x;
     }
     public void  methodaFlorin(){
         System.out.println("aiaiai!");
