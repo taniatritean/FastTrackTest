@@ -53,4 +53,8 @@ public class MedieAritmeticaSir {
         //test
     }
 
+    public void metodaAndreeaSauchea(){
+        System.out.println("Vrem conflict :))");
+    }
+
 }
