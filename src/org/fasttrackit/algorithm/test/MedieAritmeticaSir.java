@@ -67,5 +67,9 @@ public class MedieAritmeticaSir {
         System.out.println("Vrem conflict :))");
     }
 
+    private static double keviiiiin(int x){
+        return Math.pow(x,4);
+    }
+
 }
 
