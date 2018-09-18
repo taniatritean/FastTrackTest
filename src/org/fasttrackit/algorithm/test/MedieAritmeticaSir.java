@@ -37,6 +37,9 @@ public class MedieAritmeticaSir {
     public void methodSandor() {
         System.out.println("Great Job! Keep working");
     }
+    public void methodaHoratiu(){
+        System.out.println("test");
+    }
 
     private static int kevinWow(int x){
         return x*x*x;
