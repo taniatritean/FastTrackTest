@@ -14,7 +14,7 @@ public class mediearitmeticaMarius {
 
         sum = firstnumber + secondnumber;
         System.out.println("Suma numerelor este:" + sum);
-       // String firstnumberString = "" + firstnumber;
+       // Stringg firstnumberString = "" + firstnumber;
 
         String secondNumberString = Integer.toString(secondnumber);
         String firstnumberString = Integer.toString(firstnumber);
