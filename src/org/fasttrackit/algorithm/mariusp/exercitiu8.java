@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class exercitiu8 {
     public static void main(String[]args){
-
+//test
 
         Scanner input=new Scanner(System.in);
         System.out.println("Numarul este:");
