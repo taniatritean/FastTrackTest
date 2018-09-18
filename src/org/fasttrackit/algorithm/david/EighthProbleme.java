@@ -1,4 +1,6 @@
 package org.fasttrackit.algorithm.david;
+
+
 public class EighthProbleme {
     public static void main(String[] args) {
         int a=78987;
@@ -14,8 +16,5 @@ public class EighthProbleme {
         }else{
             System.out.println("Numarul "+a+" nu este palindrom.");
         }
-
-
-
     }
 }
