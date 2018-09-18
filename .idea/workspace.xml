@@ -1,47 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6756f8a4-a19c-4cba-bad6-046bbc9388ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/org/fasttrackit/algorithm/test/MedieAritmeticaSir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/algorithm/test/MedieAritmeticaSir.java" afterDir="false" />
+    <list default="true" id="bf7c2cb6-4967-4aff-8820-fccec9a43db6" name="Default Changelist" comment="marius p">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/fasttrackit/algorithm/girdavasile/MediaAritmeticaSir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/algorithm/girdavasile/MediaAritmeticaSir.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
   <component name="FUSProjectUsageTrigger">
+    <session id="416476410">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7880" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7880" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
     <session id="1221080750">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="29" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="29" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="591" />
-          <entry key="txt" value="22" />
+          <entry key="java" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="591" />
-          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="JAVA" value="21" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2030517543">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="233" />
+          <entry key="txt" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="233" />
+          <entry key="PLAIN_TEXT" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="747994234">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="21" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1926254438">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="633" />
+          <entry key="txt" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="633" />
+          <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
     </session>
@@ -49,19 +164,46 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/TwelvethProbleme.java">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/georgiana/MediaAritmeticaGeorgiana.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/Problema12Clasa.java">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/georgiana/MediaAritmeticaSiruri.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="224">
+              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/girdavasile/MediaAritmeticaSir.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/MedieAritmetica.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-390">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/MedieAritmeticaSir.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1427">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -69,27 +211,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/test/MedieAritmeticaSir.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+            <state relative-caret-position="409">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
-                <element signature="e#1246#1247#0" expanded="true" />
-                <element signature="e#1307#1308#0" expanded="true" />
-                <element signature="e#1341#1342#0" expanded="true" />
-                <element signature="e#1383#1384#0" expanded="true" />
-                <element signature="e#1248#1249#0" expanded="true" />
-                <element signature="e#1274#1275#0" expanded="true" />
-                <element signature="e#1488#1489#0" expanded="true" />
-                <element signature="e#1525#1526#0" expanded="true" />
+                <element signature="e#1245#1246#0" expanded="true" />
+                <element signature="e#1292#1293#0" expanded="true" />
+                <element signature="e#1325#1326#0" expanded="true" />
+                <element signature="e#1368#1369#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ClasaFastTrack.java">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/MedieAritmetica2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="-475">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -110,26 +248,61 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/FirstProbleme.java" />
-        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/EighthProbleme.java" />
-        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/MedieAritmeticaSir.java" />
-        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/TwelvethProbleme.java" />
-        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ClasaFastTrack.java" />
-        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/Problema12Clasa.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/MediaAritmeticaAndreeaSauchea.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/MediaAritmetica2AndreeaS.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/MedieAritmeticaSirAndreeaS.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu1.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu2.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu3.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu4.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu5.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu6.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu7.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu8.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu9.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu10.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu11.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu12.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu13.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu14.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu15.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu16.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu17.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu18.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiul19.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu19.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu20.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/TODO2.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/TODO1.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/boiciucrobert/Exercitiu1.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/boiciucrobert/Exercitiu2.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu4.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/georgiana/MediaAritmeticaSiruri.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/girdavasile/MediaAritmeticaSir.java" />
         <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/test/MedieAritmeticaSir.java" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="553" />
-    <option name="width" value="698" />
+    <option name="x" value="69" />
+    <option name="y" value="-15" />
+    <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -154,7 +327,14 @@
               <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="david" type="462c0819:PsiDirectoryNode" />
+              <item name="adrianapodut" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="girdavasile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
@@ -167,16 +347,18 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537294813984" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537294960110" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaPrograms\FastTrackTest2\src\org\fasttrackit\algorithm\mariusp" />
+    </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
     <UpdatedFiles>
@@ -192,7 +374,6 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/MedieAritmeticaSir.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -200,6 +381,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/nagymartin/MedieAritmeticaSir.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -300,13 +482,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problema12Clasa">
-    <configuration name="EighthProbleme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.david.EighthProbleme" />
-      <module name="FastTrackTest" />
+  <component name="RunManager" selected="Cucumber java.All Features in: girdavasile">
+    <configuration name="Exercitiu1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.boiciucrobert.Exercitiu1" />
+      <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.fasttrackit.algorithm.david.*" />
+          <option name="PATTERN" value="org.fasttrackit.algorithm.boiciucrobert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,12 +496,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstProbleme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.david.FirstProbleme" />
-      <module name="FastTrackTest" />
+    <configuration name="Exercitiu2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.boiciucrobert.Exercitiu2" />
+      <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.fasttrackit.algorithm.david.*" />
+          <option name="PATTERN" value="org.fasttrackit.algorithm.boiciucrobert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,12 +509,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedieAritmeticaSir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.david.MedieAritmeticaSir" />
-      <module name="FastTrackTest" />
+    <configuration name="MediaAritmetica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.nagymartin.MediaAritmetica" />
+      <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.fasttrackit.algorithm.david.*" />
+          <option name="PATTERN" value="org.fasttrackit.algorithm.nagymartin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,12 +522,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problema12Clasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.david.Problema12Clasa" />
-      <module name="FastTrackTest" />
+    <configuration name="MediaAritmeticaSiruri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.georgiana.MediaAritmeticaSiruri" />
+      <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.fasttrackit.algorithm.david.*" />
+          <option name="PATTERN" value="org.fasttrackit.algorithm.georgiana.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Features in: girdavasile" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/girdavasile" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Homework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: girdavasile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,17 +553,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FirstProbleme" />
-      <item itemvalue="Application.EighthProbleme" />
-      <item itemvalue="Application.MedieAritmeticaSir" />
-      <item itemvalue="Application.Problema12Clasa" />
+      <item itemvalue="Application.Exercitiu1" />
+      <item itemvalue="Application.Exercitiu2" />
+      <item itemvalue="Application.MediaAritmeticaSiruri" />
+      <item itemvalue="Application.MediaAritmetica" />
+      <item itemvalue="Cucumber java.All Features in: girdavasile" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problema12Clasa" />
-        <item itemvalue="Application.MedieAritmeticaSir" />
-        <item itemvalue="Application.EighthProbleme" />
-        <item itemvalue="Application.FirstProbleme" />
+        <item itemvalue="Cucumber java.All Features in: girdavasile" />
+        <item itemvalue="Application.MediaAritmeticaSiruri" />
+        <item itemvalue="Application.MediaAritmetica" />
+        <item itemvalue="Application.Exercitiu2" />
+        <item itemvalue="Application.Exercitiu1" />
       </list>
     </recent_temporary>
   </component>
@@ -373,236 +574,420 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6756f8a4-a19c-4cba-bad6-046bbc9388ba" name="Default Changelist" comment="" />
-      <created>1537284718838</created>
+      <changelist id="bf7c2cb6-4967-4aff-8820-fccec9a43db6" name="Default Changelist" comment="" />
+      <created>1536905375155</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537284718838</updated>
+      <updated>1536905375155</updated>
     </task>
-    <task id="LOCAL-00001" summary="Clasa 9/18/18">
-      <created>1537292123336</created>
+    <task id="LOCAL-00001" summary="Exercitiu1">
+      <created>1537218338341</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1537292123336</updated>
+      <updated>1537218338341</updated>
     </task>
-    <task id="LOCAL-00002" summary="Clasa 9/18/18 kevin">
-      <created>1537294270045</created>
+    <task id="LOCAL-00002" summary="marius p">
+      <created>1537286399265</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1537294270045</updated>
+      <updated>1537286399265</updated>
     </task>
-    <task id="LOCAL-00003" summary="Clasa 9/18/18">
-      <created>1537294358185</created>
+    <task id="LOCAL-00003" summary="message commit">
+      <created>1537292264222</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1537294358185</updated>
+      <updated>1537292264222</updated>
     </task>
-    <task id="LOCAL-00004" summary="Kev">
-      <created>1537294462408</created>
+    <task id="LOCAL-00004" summary="marius p">
+      <created>1537294292471</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1537294462408</updated>
+      <updated>1537294292471</updated>
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__girdavasile - 2018.09.18 at 21h 07m 50s.xml">
+      <configuration name="All Features in: girdavasile" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7406000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.59858155" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32907802" />
-      <window_info anchor="bottom" id="Messages" weight="0.32907802" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49621785" visible="true" weight="0.19508196" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.50378215" side_tool="true" visible="true" weight="0.19508196" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49848714" weight="0.29836065" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.494705" weight="0.20983607" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Clasa 9/18/18 kevin" />
-    <MESSAGE value="Clasa 9/18/18" />
-    <MESSAGE value="Kev" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kev" />
+    <MESSAGE value="Exercitiu1" />
+    <MESSAGE value="message commit" />
+    <MESSAGE value="marius p" />
+    <option name="LAST_COMMIT_MESSAGE" value="marius p" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ProblemaCincisprezece.java">
+    <entry file="file://$PROJECT_DIR$/PracticeJava.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/MedieAritmeticaSirAndreeaS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="274">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ProblemaDouazeci.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/MediaAritmetica2AndreeaS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="374">
+          <caret line="22" column="123" selection-start-line="22" selection-start-column="123" selection-end-line="22" selection-end-column="123" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/FirstProbleme.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/MediaAritmeticaAndreeaSauchea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="36" column="123" selection-start-line="35" selection-start-column="8" selection-end-line="36" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Math.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="29" column="94" selection-start-line="29" selection-start-column="94" selection-end-line="29" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+          <caret column="49" selection-start-column="49" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/EleventhProbleme.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="238">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/FifthProbleme.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
+        <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/NinthProbleme.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="256">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ProblemaNouasprezece.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ProblemaNrTreisprezece.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ProblemaOptsprezece.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/EighthProbleme.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="272">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiul19.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="166" selection-start-line="14" selection-start-column="166" selection-end-line="14" selection-end-column="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/TODO2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/TODO1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/tania/FifthProbleme.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="260">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/boiciucrobert/Exercitiu1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="38" selection-start-line="4" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/HomeWork/Exercise3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu7.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu8.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu6.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu5.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/boiciucrobert/Exercitiu2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/mariusp/exercitiu1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/nagymartin/MediaAritmeticaMartin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
+        <state relative-caret-position="68">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/MedieAritmeticaSir.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/georgiana/MediaAritmeticaGeorgiana.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ClasaFastTrack.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/adrianapodut/MedieAritmeticaAdrianaPodut.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/TwelvethProbleme.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/georgiana/MediaAritmeticaSiruri.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="224">
+          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/Problema12Clasa.java">
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/girdavasile/MediaAritmeticaSir.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="204">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/MedieAritmetica2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/MedieAritmetica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/MedieAritmeticaSir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1427">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/test/MedieAritmeticaSir.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        <state relative-caret-position="409">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
-            <element signature="e#1246#1247#0" expanded="true" />
-            <element signature="e#1307#1308#0" expanded="true" />
-            <element signature="e#1341#1342#0" expanded="true" />
-            <element signature="e#1383#1384#0" expanded="true" />
-            <element signature="e#1248#1249#0" expanded="true" />
-            <element signature="e#1274#1275#0" expanded="true" />
-            <element signature="e#1488#1489#0" expanded="true" />
-            <element signature="e#1525#1526#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1325#1326#0" expanded="true" />
+            <element signature="e#1368#1369#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -610,6 +995,30 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -623,7 +1032,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -633,13 +1042,14 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ProjectJDKs.UI">
+      <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>Homework</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
