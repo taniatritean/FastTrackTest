@@ -17,6 +17,7 @@ public class MedieAritmeticaSir
 
         int sum;
 
+
        sum = firstNumber + secondNumber;
 
        System.out.print("Suma numerelor este :" + sum);
