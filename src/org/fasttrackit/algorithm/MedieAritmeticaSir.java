@@ -106,9 +106,8 @@ public class MedieAritmeticaSir {
             }
         }
         return numberTwo;
+
+
     }
 
-    private static void methodAdri(){
-        System.out.println(":)");
-    }
 }

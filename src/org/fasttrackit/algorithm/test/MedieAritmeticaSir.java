@@ -31,22 +31,24 @@ public class MedieAritmeticaSir {
         }
         System.out.println("Sum first number: " + sumFirstNumber);
         System.out.println("Sum second number: " + sumSecondNumber);
-
-
-        }
-    public void methodSandor() {
-        System.out.println("Great Job! Keep working");
     }
-    public void methodaHoratiu(){
-        System.out.println("test");
+
+    public void methodaVasile() {
+        System.out.println("hey");
+    }
+
+    private static void methodAdriana() {
+        System.out.println(":)");
+    }
+
+    public void methodaTania() {
+        System.out.println("Hello");
     }
 
     public void methodaGeorgiana() {
         System.out.println("Hellooooo");
     }
-    public void methodaTania() {
-        System.out.println("Hello");
-    }
+
     private static int kevinWow(int x){
         return x*x*x*x*x;
     }
@@ -54,4 +56,9 @@ public class MedieAritmeticaSir {
         System.out.println("aiaiai!");
     }
 
+    public void methodaTaniaB() {
+        //test
+    }
+
 }
+

@@ -12,15 +12,14 @@ public class MediaAritmeticaSir {
 
         sum = FirstNumber + secondNumber;
         System.out.println("suma numerelor este " + sum);
-
-    String firstNumberString = "" + FirstNumber;
-
-    firstNumberString = Integer.toString(FirstNumber);
-
-    int sumFirstNumber = 0;
-            for(int index=0;index<firstNumberString.length();index++)  {
-                sumFirstNumber+=Integer.parseInt(""+firstNumberString.charAt(index));
     }
-}
+    String firstNumberstring = "" + FirstNumber;
+
+    firstnumberstring = Integer.toString(FirstNumber);
+
+    int sumFirstNumber = 0
+            for(int index=0;index<firstNumberString.length();index++)  {
+
+    }
 }
 
