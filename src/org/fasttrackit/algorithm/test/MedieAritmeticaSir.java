@@ -31,21 +31,9 @@ public class MedieAritmeticaSir {
         }
         System.out.println("Sum first number: " + sumFirstNumber);
         System.out.println("Sum second number: " + sumSecondNumber);
-
-
+        public void methodaVasile() {
+            System.out.println("hey");
         }
-    public void methodSandor() {
-        System.out.println("Great Job! Keep working");
-    }
-    public void methodaHoratiu(){
-        System.out.println("test");
     }
 
-    private static int kevinWow(int x){
-        return x*x*x*x;
-    }
-
-}
-public void  methodaFlorin(){
-    System.out.println("aiaiai!");
 }
