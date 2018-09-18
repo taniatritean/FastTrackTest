@@ -33,4 +33,8 @@ public class MedieAritmeticaSir {
         System.out.println("Sum second number: " + sumSecondNumber);
     }
 
+    private static int kevinWow(int x){
+        return x*x;
+    }
+
 }
