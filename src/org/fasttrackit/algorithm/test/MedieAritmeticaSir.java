@@ -36,4 +36,11 @@ public class MedieAritmeticaSir {
         System.out.println("test");
     }
 
+    private static int kevinWow(int x){
+        return x*x*x;
+    }
+
+}
+public void  methodaFlorin(){
+    System.out.println("aiaiai!");
 }
