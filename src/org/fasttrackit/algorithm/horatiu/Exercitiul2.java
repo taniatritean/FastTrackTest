@@ -2,7 +2,7 @@ package org.fasttrackit.algorithm.horatiu;
 
 import java.util.Scanner;
 
-public class MedieAritmeticaN {
+public class Exercitiul2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("How many numbers?");
@@ -20,17 +20,15 @@ public class MedieAritmeticaN {
                     numbers[i] = sc.nextDouble();
                     if (numbers[i] > 0) {
                         sum += numbers[i];
-
                     } else {
                         System.out.println("Number must be positiv!");
                         break;
-                        }
+                    }
                 }
                 double average = sum / numbers.length;
                 System.out.println("Averege of the number is " + average);
             }
         } catch (Exception err) {
-
             System.out.println("Must be number!");
         }
     }
