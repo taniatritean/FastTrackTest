@@ -6,8 +6,8 @@ public class Exercitiul2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("How many numbers?");
-        int nr = sc.nextInt();
         try {
+            int nr = sc.nextInt();
             if (nr < 0) {
                 System.out.println("Number must be positiv!");
             } else if (nr < 2) {
@@ -28,7 +28,7 @@ public class Exercitiul2 {
                 double average = sum / numbers.length;
                 System.out.println("Averege of the number is " + average);
             }
-        } catch (Exception err) {
+        } catch(Exception e) {
             System.out.println("Must be number!");
         }
     }
