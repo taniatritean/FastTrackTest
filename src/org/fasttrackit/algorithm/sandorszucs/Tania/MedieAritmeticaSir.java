@@ -1,4 +1,4 @@
-package org.fasttrackit.algorithm;
+package org.fasttrackit.algorithm.sandorszucs.Tania;
 
 /**
  * @author ttritean
@@ -106,8 +106,5 @@ public class MedieAritmeticaSir {
             }
         }
         return numberTwo;
-
-
     }
-
 }
