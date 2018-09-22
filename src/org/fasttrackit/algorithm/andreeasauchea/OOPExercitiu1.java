@@ -1,74 +1,33 @@
 package org.fasttrackit.algorithm.andreeasauchea;
+
+import org.fasttrackit.algorithm.andreeasauchea.figurigeometrice.Cerc;
+import org.fasttrackit.algorithm.andreeasauchea.figurigeometrice.FiguraGeometrica;
+import org.fasttrackit.algorithm.andreeasauchea.figurigeometrice.Patrat;
+import org.fasttrackit.algorithm.andreeasauchea.figurigeometrice.Triunghi;
+
 import java.util.ArrayList;
+import java.util.List;
 
 public class OOPExercitiu1 {
     public static void main(String[] args) {
-        ArrayList forme = new ArrayList();
-        FormeGeometrice cerc = new Cerc(3);
-        FormeGeometrice patrat = new Patrat(4);
-        FormeGeometrice triunghi = new Triunghi(2, 3, 4);
-        cerc.denumire();
-        cerc.perimetru();
-        ((Cerc) cerc).raza();
-        patrat.denumire();
-        patrat.perimetru();
-        triunghi.denumire();
-        triunghi.perimetru();
+        List<FiguraGeometrica> forme = new ArrayList<>();
+        FiguraGeometrica cerc = new Cerc(3);
+        FiguraGeometrica patrat = new Patrat(4);
+        FiguraGeometrica triunghi = new Triunghi(2, 3, 4);
+        forme.add(0, cerc);
+        forme.add(1, patrat);
+        forme.add(2, triunghi);
+        for (int index = 0; index < forme.size(); index++) {
+            forme.get(index).denumire();
+            forme.get(index).perimetru();
+            if (forme.get(index) instanceof Cerc) {
+                Cerc cerc1 = (Cerc) forme.get(index);
+                cerc1.raza();
+            }
+        }
     }
 }
 
-abstract class FormeGeometrice {
-    abstract void denumire();
-    abstract void perimetru();
-}
 
-class Cerc extends FormeGeometrice{
-    double raza;
-    Cerc(double raza) {
-        this.raza = raza;
-    }
-    public void denumire(){
-        System.out.println("Acesta este un cerc.");
-    }
-    public void perimetru(){
-        double circumferinta = raza * 3.14 * 2;
-        System.out.println("Circumferinta cercului este: " + circumferinta);
-    }
-    public void raza(){
-        System.out.println("Raza cercului este: " + raza);
-    }
-}
-
-class Patrat extends FormeGeometrice{
-    double laturapatr;
-    Patrat(double laturapatr) {
-        this.laturapatr = laturapatr;
-    }
-    public void denumire(){
-        System.out.println("Acesta este un patrat");
-    }
-    public void perimetru(){
-        double perimetrup = 4 * laturapatr;
-        System.out.println("Perimetrul patratului este: " + perimetrup);
-    }
-}
-
-class Triunghi extends FormeGeometrice{
-    double laturatri1;
-    double laturatri2;
-    double laturatri3;
-    Triunghi(double laturatri1, double laturatri2, double laturatri3){
-        this.laturatri1 = laturatri1;
-        this.laturatri2 = laturatri2;
-        this.laturatri3 = laturatri3;
-    }
-    public void denumire() {
-        System.out.println("Acesta este un triunghi");
-    }
-    public void perimetru() {
-        double perimetrutri = laturatri1 + laturatri2 + laturatri3;
-        System.out.println("Perimetrul triunghiului este: " + perimetrutri);
-    }
-}
 
 
