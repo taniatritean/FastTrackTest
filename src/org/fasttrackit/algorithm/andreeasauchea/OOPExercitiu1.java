@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class OOPExercitiu1 {
     public static void main(String[] args) {
-        ArrayList<FormeGeometrice> forme = new ArrayList<FormeGeometrice>();
+        ArrayList forme = new ArrayList();
         FormeGeometrice cerc = new Cerc(3);
         FormeGeometrice patrat = new Patrat(4);
         FormeGeometrice triunghi = new Triunghi(2, 3, 4);
