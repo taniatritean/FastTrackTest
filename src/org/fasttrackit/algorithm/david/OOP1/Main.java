@@ -25,8 +25,15 @@ public class Main {
     }
     public static void tiparireForme(){
         for(int i=0;i<formeGeometrice.size();i++){
-            formeGeometrice.get(i).getName();
-            formeGeometrice.get(i).getPerimeter();
+            FormeGeometrice formaGeometricaDinSir = formeGeometrice.get(i);
+            formaGeometricaDinSir.getName();
+            formaGeometricaDinSir.getPerimeter();
+            if (formaGeometricaDinSir instanceof  Cerc) {
+                ((Cerc) formaGeometricaDinSir).getRadius();
+            }
+            if(formaGeometricaDinSir instanceof  Patrat) {
+                ((Patrat) formaGeometricaDinSir).getArea();
+            }
         }
     }
 }

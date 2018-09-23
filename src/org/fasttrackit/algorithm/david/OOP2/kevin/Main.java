@@ -1,7 +1,9 @@
 package org.fasttrackit.algorithm.david.OOP2.kevin;
 
 //  2. Sa se genereze clasele necesare pt un catalog de produse. Catalog, produs, categorie de produse.
-//  Un utilizator isi pune in cos 2 produse diferite, un scaun si un dulap. Sa se afiseze pe consola numele fiecarui produs si pretul lui si totalul de plata al elementelor din cos.
+//  Un utilizator isi pune in cos 2 produse diferite, un scaun si un dulap.
+// Sa se afiseze pe consola numele fiecarui produs si pretul lui si totalul de plata al
+// elementelor din cos.
 
 import java.util.LinkedList;
 import java.util.Scanner;
