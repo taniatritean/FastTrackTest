@@ -1,4 +1,4 @@
-package src.org.fasttrackit.algorithm.sandorszucs.homework.oopexercise;
+package org.fasttrackit.algorithm.sandorszucs.homework.oopexercise;
 
 public abstract class GeometricShape {
     public abstract void denomination();

@@ -10,7 +10,7 @@ import java.util.List;
 
 public class OOPExercitiu1 {
     public static void main(String[] args) {
-        List<FiguraGeometrica> forme = new ArrayList<>();
+        List<FiguraGeometrica> forme = new ArrayList();
         FiguraGeometrica cerc = new Cerc(3);
         FiguraGeometrica patrat = new Patrat(4);
         FiguraGeometrica triunghi = new Triunghi(2, 3, 4);

@@ -1,4 +1,4 @@
-package src.org.fasttrackit.algorithm.sandorszucs.homework.oopexercise;
+package org.fasttrackit.algorithm.sandorszucs.homework.oopexercise;
 
 import java.util.ArrayList;
 import java.util.List;
