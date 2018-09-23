@@ -11,9 +11,9 @@ public class OOPExercise1 {
         GeometricShape square = new Square(7);
         GeometricShape triangle = new Triangle(4,6,8);
 
-        shapes.add(0, circle);
-        shapes.add(1, square);
-        shapes.add(2, triangle);
+        shapes.add(circle);
+        shapes.add(square);
+        shapes.add(triangle);
 
        for (int i = 0; i < shapes.size(); i++) {
            shapes.get(i).denomination();
