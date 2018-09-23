@@ -4,6 +4,4 @@ public abstract class GeometricShape {
     public abstract void denomination();
 
     public abstract void perimeter();
-
-
 }
