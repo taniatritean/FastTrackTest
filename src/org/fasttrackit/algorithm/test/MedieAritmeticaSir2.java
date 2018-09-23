@@ -11,7 +11,7 @@ package org.fasttrackit.algorithm.test;
  * @author ttritean
  * @since 9/18/2018
  */
-public class MedieAritmeticaSir {
+public class MedieAritmeticaSir2 {
 
     public static void main(String[] alalaba) {
         int firstNumber = 201;
