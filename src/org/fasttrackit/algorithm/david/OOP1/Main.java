@@ -1,15 +1,25 @@
 package org.fasttrackit.algorithm.david.OOP1;
+
 import java.util.LinkedList;
 
 public class Main {
     private static LinkedList<FormeGeometrice> formeGeometrice=new LinkedList<>();
     public static void main(String[] args) {
+        Cerc c=new Cerc(5);
+        Patrat p=new Patrat(6);
+        Triunghi t=new Triunghi(1,2,3);
 
-        formeGeometrice.add(new Cerc(5));
-        formeGeometrice.add(new Patrat(6));
-        formeGeometrice.add(new Triunghi(1,2,3));
+
+        formeGeometrice.add(c);
+        formeGeometrice.add(p);
+        formeGeometrice.add(t);
 
         tiparireForme();
+
+        c.getRadius();
+        p.getArea();
+
+
 
 
     }
