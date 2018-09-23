@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7c2cb6-4967-4aff-8820-fccec9a43db6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/fasttrackit/algorithm/MedieAritmeticaSir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/algorithm/MedieAritmeticaSir.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,34 +54,36 @@
     <session id="1221080750">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="iml" value="4" />
-          <entry key="java" value="3" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="16" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="95" />
+          <entry key="java" value="159" />
+          <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="95" />
+          <entry key="JAVA" value="159" />
+          <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
     </session>
@@ -168,19 +172,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FastTrackTest.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PracticeJava.iml">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/MedieAritmeticaSir.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38" selection-start-column="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ProblemaNrTreisprezece.java">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/florinfagetan/MedieAritmeticaSirFFM.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ClasaFastTrack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -231,6 +248,8 @@
         <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/MediaAritmeticaSir.java" />
         <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/girdavasile/MediaAritmeticaSir.java" />
         <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/test/MedieAritmeticaSir.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/org/fasttrackit/algorithm/MedieAritmeticaSir.java" />
       </list>
     </option>
   </component>
@@ -245,8 +264,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,21 +282,40 @@
               <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="fasttrackit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="fasttrackit" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="fasttrackit" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="daniel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="fasttrackit" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="david" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FastTrackTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FastTrackTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -287,7 +325,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537706298383" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537706949955" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -297,140 +335,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JavaPrograms\FastTrackTest2\src\org\fasttrackit\algorithm\mariusp" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise14.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/OOPExercitiu1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/figurigeometrice/Cerc.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/figurigeometrice/FiguraGeometrica.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/figurigeometrice/Patrat.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/figurigeometrice/Triunghi.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/horatiu/Exercitiul1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/horatiu/Exercitiul2.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise12.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise16.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise17.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise18.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/Exercise19.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/oopexercise/Circle.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/oopexercise/GeometricShape.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/oopexercise/OOPExercise1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/oopexercise/Square.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/sandorszucs/homework/oopexercise/Triangle.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/tania/Exercise12.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/modules.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/vcs.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/horatiu/MedieAritmeticaHoratiu.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/org/fasttrackit/algorithm/horatiu/MedieAritmeticaN.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -444,10 +348,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MedieAritmeticaSir">
+  <component name="RunManager" selected="Application.Exercitiu1">
     <configuration name="Exercitiu1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.boiciucrobert.Exercitiu1" />
-      <module name="Homework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.fasttrackit.algorithm.boiciucrobert.*" />
@@ -459,8 +362,9 @@
       </method>
     </configuration>
     <configuration name="Exercitiu12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="org.fasttrackit.algorithm.andreeasauchea.Exercitiu12" />
-      <module name="Homework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.fasttrackit.algorithm.andreeasauchea.*" />
@@ -573,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537295847569</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="created directories">
+      <created>1537706357129</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1537706357129</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -587,8 +498,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25479743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -597,7 +509,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19432624" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19420601" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -651,38 +563,10 @@
     <MESSAGE value="Problema 12 sub numele de medie aritmetica" />
     <MESSAGE value="conflict" />
     <MESSAGE value="comflict" />
-    <option name="LAST_COMMIT_MESSAGE" value="comflict" />
+    <MESSAGE value="created directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="created directories" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/MedieAritmeticaSirAndreeaS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/MedieAritmeticaSir.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/MediaAritmetica2AndreeaS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="123" selection-start-line="22" selection-start-column="123" selection-end-line="22" selection-end-column="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/MediaAritmeticaAndreeaSauchea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="36" column="123" selection-start-line="35" selection-start-column="8" selection-end-line="36" selection-end-column="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Math.java" />
     <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/andreeasauchea/Exercitiu7.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -818,9 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/tania/FifthProbleme.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -917,13 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ClasaFastTrack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="40" selection-start-column="40" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/test/MedieAritmeticaSir.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
@@ -958,6 +832,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PracticeJava.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/EighthProbleme.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/EleventhProbleme.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ClasaFastTrack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/david/ProblemaNrTreisprezece.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/florinfagetan/MedieAritmeticaSirFFM.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/fasttrackit/algorithm/MedieAritmeticaSir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
