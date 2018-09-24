@@ -11,7 +11,7 @@ package org.fasttrackit.algorithm.test;
  * @author ttritean
  * @since 9/18/2018
  */
-public class MedieAritmeticaSir {
+public class MedieAritmeticaSir2 {
 
     public static void main(String[] alalaba) {
         int firstNumber = 201;
@@ -45,7 +45,14 @@ public class MedieAritmeticaSir {
         System.out.println("Hello");
     }
 
-    public void methodaFlorin() {
+    public void methodaGeorgiana() {
+        System.out.println("Hellooooo");
+    }
+
+    private static int kevinWow(int x){
+        return x*x*x*x*x;
+    }
+    public void  methodaFlorin(){
         System.out.println("aiaiai!");
     }
 
@@ -63,5 +70,9 @@ public class MedieAritmeticaSir {
     private static double keviiiiin(int x){
         return Math.pow(x,4);
     }
-
+    public void  methodAlex() {
+        System.out.println("Bonjour");
+    }
 }
+}
+
