@@ -74,5 +74,4 @@ public class MedieAritmeticaSir2 {
         System.out.println("Bonjour");
     }
 }
-}
 

@@ -11,6 +11,6 @@ public class FactorialFiveteenth {
         for(int i=1;i<=n;i++){
             fact *=i;
         }
-        System.out.println("suma primelor " +n+ " numere este: "+fact);
+        System.out.println("factorialul primelor " +n+ " numere este: "+fact);
     }
 }
