@@ -2,7 +2,7 @@ package org.fasttrackit.algorithm.florinfagetan;
 
 import java.util.Scanner;
 
-public class MaxNFagetan {
+public class MaxNFagetanSecondThird {
     public static void main(String[] args) {
             Scanner intraretastatura = new Scanner(System.in);
             System.out.println("introduceti numarul n: ");
