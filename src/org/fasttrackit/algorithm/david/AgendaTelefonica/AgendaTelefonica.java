@@ -6,6 +6,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+//TODO : question to think about: what will happen with thhe class if I say that the action will retrievedd not from the keyboard, but from a file,
+// or from a voice message, or by clicking a keyboard number
+//what wil be the impact of this new change request in your code, in your class
+//try to think if this is the class that should be responsable to handle to input mechanism (so to know if it read from keyboard, or from file or something else)
+
+//NICE WORK !!!!:)
 public class AgendaTelefonica {
     private Scanner scanner=new Scanner(System.in);
     private List<Contact> agendaTelefonica=new ArrayList<>();
