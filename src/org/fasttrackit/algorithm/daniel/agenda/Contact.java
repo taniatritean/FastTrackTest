@@ -4,6 +4,7 @@ public class Contact {
     //declaram variabile aici
     private final String number;
     private final String firstname;
+    //TODO - make this private - you can read about : incapsulation
     Contact next;
 
 
