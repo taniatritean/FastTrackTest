@@ -2,8 +2,8 @@ package org.fasttrackit.algorithm.daniel.agenda;
 
 public class Contact {
     //declaram variabile aici
-    private final String number;
-    private final String firstname;
+    private  String number;
+    private  String firstname;
     //TODO - make this private - you can read about : incapsulation
     Contact next;
 

@@ -14,13 +14,12 @@ public static void main (String[] args) {
     AgendaMea.add("Ciaca", "1234567");
     AgendaMea.add("Sergius", "1234567");
 
-    System.out.println(AgendaMea.toString());
+
 
     //TODO Try to write this with for  and after that with while
-    System.out.println(AgendaMea.first());
-    System.out.println(AgendaMea.get(2));
-    System.out.println(AgendaMea.get(3));
-    System.out.println(AgendaMea.get(4));
+   for (int i=0; i<4; i++){
+       System.out.println(AgendaMea.get(i));
+   }
 
     //TODO- comments generale from TAnia :
     // Ai reusit sa simulezi o agenda ordonata in functie de ordinea inserarii elementelor in agenda -  nice ca si exercitiu de algoritmi :)
