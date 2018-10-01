@@ -1,5 +1,6 @@
 package org.fasttrackit.algorithm.adrianapodut.oop.shop;
-
+//FF FAIN :) felicitari
+//ai folosit si  relatii bidirectionale intre obiecte.
 
 public class Exercitiul2 {
     public static void main(String args[]) {

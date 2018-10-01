@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CosDeCumparaturi {
-
+//TODO optional
+    //In loc de aceste 2 list in care pui data in paralel, poti folosi HashMap - poti citi depre Map si HashMap din java sa vezi cum te-ar putea ajuta asta (optional normal)
     public List<Produs> produseleDinCos = new ArrayList<>();
     private List<Integer> cantitatiProduse = new ArrayList<Integer>();
 

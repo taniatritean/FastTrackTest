@@ -10,6 +10,7 @@ public class Exercitiul4
         System.out.println("Introduceti numarul :");
         int n = primulNumar.nextInt();
 
+        //TODO incearca sa foloseti aici un for
         System.out.println(n * 0);
         System.out.println(n * 1);
         System.out.println(n * 2);
