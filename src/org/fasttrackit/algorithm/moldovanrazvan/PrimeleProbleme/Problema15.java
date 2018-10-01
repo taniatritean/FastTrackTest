@@ -13,6 +13,7 @@ public class Problema15
 
         System.out.println("Factorialul numarului este: " + factorial(nr));
     }
+    //FT bine folosita recurenta aici :)
 
     public static int factorial(int n)
     {
