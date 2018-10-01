@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Catalaog {
     private Scanner scanner =new Scanner(System.in);
-    private List<Produs> catalog=new ArrayList<>();
+    private List<InterfataProdus> catalog=new ArrayList<>();
     public void adaugare(){
         System.out.println("What name the object you want to buy has?");
         String name=scanner.nextLine();
@@ -18,7 +18,7 @@ public class Catalaog {
     public void afisare(){
         int suma=0;
         for(int i=0;i<catalog.size();i++){
-            Produs produs=catalog.get(i);
+            InterfataProdus produs=catalog.get(i);
             System.out.println(i+" -> "+produs.getName()+" -> "+produs.getPrice()+"$");
             suma+=produs.getPrice();
         }

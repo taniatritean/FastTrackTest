@@ -1,6 +1,6 @@
 package org.fasttrackit.algorithm.david.OOP2version2;
 
-public class Produs {
+public class Produs implements InterfataProdus {
     private String name;
     private int price;
 
