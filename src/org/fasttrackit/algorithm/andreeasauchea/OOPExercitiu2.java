@@ -11,8 +11,6 @@ import org.fasttrackit.algorithm.andreeasauchea.catalogproduse.CatalogProduse;
 import org.fasttrackit.algorithm.andreeasauchea.catalogproduse.CategorieProdus;
 import org.fasttrackit.algorithm.andreeasauchea.catalogproduse.Produs;
 
-import java.util.HashMap;
-import java.util.List;
 
 public class OOPExercitiu2 {
     public static void main(String[] args) {
