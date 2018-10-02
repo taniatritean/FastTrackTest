@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Catalaog {
-    /*private Scanner scanner =new Scanner(System.in);
+    private Scanner scanner =new Scanner(System.in);
     private List<InterfataProdus> catalog=new ArrayList<>();
     public void adaugare(){
         System.out.println("What name the object you want to buy has?");
@@ -24,5 +24,5 @@ public class Catalaog {
         }
         System.out.println();
         System.out.println("The total sum equals to "+suma);
-    }*/
+    }
 }
