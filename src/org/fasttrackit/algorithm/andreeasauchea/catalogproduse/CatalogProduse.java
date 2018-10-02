@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class CatalogProduse {
-    private List<CategorieProdus> categorii = new LinkedList<>();
+    private List<CategorieProdus> categorii = new LinkedList<>(); // mai ok ArrayList
 
     public CatalogProduse(){
 

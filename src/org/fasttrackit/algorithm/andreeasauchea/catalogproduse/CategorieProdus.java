@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class CategorieProdus {
-    private List<Produs> produse = new LinkedList<>();
+    private List<Produs> produse = new LinkedList<>(); // mai ok ArrayList
     private String NumeCategorie;
 
     public CategorieProdus(String NumeCategorie) {
