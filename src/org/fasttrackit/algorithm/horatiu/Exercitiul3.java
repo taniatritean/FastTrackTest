@@ -18,13 +18,13 @@ public class Exercitiul3 {
                 if (numbers[i] > max) {
                     max = numbers[i];
                 }
-                if (min == 0 && numbers[i] < min) {
+                if (min == 0 && numbers[i] <= min) {
                     min = numbers[i];
-                } else if (min < numbers[i] && numbers[i] < 0) {
+                } else if (min < numbers[i] && numbers[i] <= 0) {
                     min = numbers[i];
                 }
               }
-              if (max == 0){System.out.println("Maximun negative number is: " + min);
+              if (min != 0){System.out.println("Maximun negative number is: " + min);
               } else {System.out.println("Maximun positive number is: " + max);
               }
         } catch (Exception e) {
