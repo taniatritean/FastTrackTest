@@ -11,7 +11,9 @@ public class OOPExercise1 {
         //creez o lista de figuri geometrice
         List<FormaGeometricaTania> formeGeometrice = new ArrayList<>();
 
-//adaug in lista 3 figuri : cerc, patrat, triunghi
+//adaug in lista 3 figuri : cerc, patrat, triunghi;
+        FormaGeometricaTania cerc1 = new CercTania(5);
+        formeGeometrice.add(cerc1);
         formeGeometrice.add(new CercTania(5));
         formeGeometrice.add(new Patrat(6));
         formeGeometrice.add(new Triunghi(1, 2, 3));
@@ -20,8 +22,10 @@ public class OOPExercise1 {
             FormaGeometricaTania formaGeometricaDinSir = formeGeometrice.get(i);
             System.out.println("-------------------------------");
 
-            System.out.println("Numele figurii geometrice este: " + formaGeometricaDinSir.getName());
-            System.out.println("Perimetrul figurii geometrice este: " + formaGeometricaDinSir.getPerimeter());
+            System.out.println("Numele figurii geometrice este: "
+                    + formaGeometricaDinSir.getName());
+            System.out.println("Perimetrul figurii geometrice este: "
+                    + formaGeometricaDinSir.getPerimeter());
 
             //verificam daca e cerc
             if (formaGeometricaDinSir instanceof CercTania) {

@@ -2,11 +2,11 @@ package org.fasttrackit.algorithm.tania.oop.figurageometrica;
 
 //Implementare a clasei figuraGeometrica- o subclasa ce trebuie sa implementee toate metodele interfetei
 //Cerc va fi o fuguraGeometrica
-public class CercTania implements FormaGeometricaTania {
+public class CercTania1 implements FormaGeometricaTania {
 
     private int raza;
 
-    public CercTania(int raza) {
+    public CercTania1(int raza) {
         this.raza = raza;
     }
 

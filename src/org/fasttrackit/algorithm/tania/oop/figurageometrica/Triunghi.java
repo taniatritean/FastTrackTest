@@ -1,6 +1,6 @@
 package org.fasttrackit.algorithm.tania.oop.figurageometrica;
 
-public class Triunghi implements FormaGeometricaTania {
+public class Triunghi extends FiguraGeometricaCuLaturi {
     private int l1;
     private int l2;
     private int l3;
@@ -9,6 +9,11 @@ public class Triunghi implements FormaGeometricaTania {
         this.l1 = l1;
         this.l2 = l2;
         this.l3 = l3;
+    }
+
+    @Override
+    public int getNumberOfLaturi() {
+        return 3;
     }
 
     public String getName() {
