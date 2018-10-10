@@ -8,9 +8,28 @@ public class Vehicle {
 
     private String name;
 
+    private String serie;
     public Vehicle(String name) {
         this.name = name;
     }
+    public Vehicle(String name, String seria) {
+        this.name = name;
+        this.serie = seria;
+    }
+
+    public String getSerie() {
+        return serie;
+    }
+
+//    @Override
+//    public boolean equals(Object obj) {
+//       return serie.equals(((Vehicle)obj).getSerie());
+//    }
+//
+//    @Override
+//    public int hashCode() {
+//        return serie.hashCode();
+//    }
 
     public String getName() {
         return name;
@@ -31,4 +50,6 @@ public class Vehicle {
         }
         return false;
     }
+
+
 }
