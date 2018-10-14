@@ -1,0 +1,6 @@
+Birou,Mobilier,500
+Dulap,Mobilier,700
+Curajul de a fi vulnerabil,carti,25
+Privind soarele in fata,carti,30
+TV,Electonice,1200
+Frigider,Electonice,500
