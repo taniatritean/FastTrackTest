@@ -59,7 +59,7 @@ public class ProblemaLab7 {
         try {
             magazin.addProduct(new Produs("lapte",14, categoryMancare));
         } catch (DuplicateProductException dpe) {
-            System.out.println("Invalid product");
+            System.out.println("Invalid product"); //aici va da invalid product
         }
 
         try {
