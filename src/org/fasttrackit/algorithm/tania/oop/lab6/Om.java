@@ -29,4 +29,15 @@ public class Om {
     public void setVarsta(int varsta) {
         this.varsta = varsta;
     }
+
+    @Override
+    public boolean equals(Object obj) {
+
+        return nume.equals(((Om)obj).getNume());
+    }
+
+    @Override
+    public int hashCode() {
+        return nume.hashCode();
+    }
 }

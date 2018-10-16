@@ -1,10 +1,12 @@
 package org.fasttrackit.algorithm.tania.oop.shop;
 
+import java.io.Serializable;
+
 /**
  * @author ttritean
  * @since 9/23/2018
  */
-public class Produs {
+public class Produs implements Serializable {
     private String name;
     private double price;
     private CategorieProdus category;
@@ -40,5 +42,17 @@ public class Produs {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("Produs{");
+        sb.append("name='").append(name).append('\'');
+        sb.append(", price=").append(price);
+        if (category != null) {
+            sb.append(", category=").append(category.getName());
+        }
+        sb.append('}');
+        return sb.toString();
     }
 }

@@ -1,5 +1,6 @@
 package org.fasttrackit.algorithm.tania.oop.shop;
 
+import java.io.Serializable;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -7,7 +8,7 @@ import java.util.Set;
  * @author ttritean
  * @since 9/23/2018
  */
-public class Shop {
+public class Shop implements Serializable {
 
     private String name;
     private Set<CategorieProdus> categoriiProduse= new HashSet<>();
@@ -35,5 +36,14 @@ public class Shop {
 
     public void setCategoriiProduse(Set<CategorieProdus> categoriiProduse) {
         this.categoriiProduse = categoriiProduse;
+    }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("Shop{");
+        sb.append("name='").append(name).append('\'');
+        sb.append(", categoriiProduse=").append(categoriiProduse);
+        sb.append('}');
+        return sb.toString();
     }
 }

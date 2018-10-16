@@ -1,5 +1,6 @@
 package org.fasttrackit.algorithm.tania.oop.shop;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -7,7 +8,7 @@ import java.util.List;
  * @author ttritean
  * @since 9/23/2018
  */
-public class CategorieProdus {
+public class CategorieProdus  implements Serializable {
 
     private String name;
     private String owner;
@@ -40,5 +41,15 @@ public class CategorieProdus {
 
     public void setProduse(List<Produs> produse) {
         this.produse = produse;
+    }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("CategorieProdus{");
+        sb.append("name='").append(name).append('\'');
+        sb.append(", owner='").append(owner).append('\'');
+        sb.append(", produse=").append(produse);
+        sb.append('}');
+        return sb.toString();
     }
 }

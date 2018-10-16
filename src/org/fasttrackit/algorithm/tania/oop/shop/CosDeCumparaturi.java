@@ -45,4 +45,13 @@ public class CosDeCumparaturi {
         }
         return total;
     }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("CosDeCumparaturi{");
+        sb.append("cumparator='").append(cumparator).append('\'');
+        sb.append(", produse=").append(produse);
+        sb.append('}');
+        return sb.toString();
+    }
 }

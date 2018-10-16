@@ -1,5 +1,13 @@
 package org.fasttrackit.algorithm.tania.oop.shop;
 
+import org.fasttrackit.algorithm.tania.lab8.FilesUtil;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.util.List;
+
 /**
  * @author ttritean
  * @since 9/23/2018
@@ -31,6 +39,36 @@ public class OOPExercise2 {
 
         System.out.println("In cosul de cumparaturi avem " + cosDeCumparaturi.getProduse().size() + " produse.");
         System.out.println("Totalul cosului este " + cosDeCumparaturi.computeTotalPrice());
+
+
+        //Save the shop in file
+
+        //WHY the root??
+        //try without serializable
+        // try without toString
+        //try serializing other way
+
+        FilesUtil.saveInFile("shopFile.txt", shop);
+
+        //List<String> strings = FilesUtil.readFromFileAsList("shopFile.txt");
+
+        try {
+            File fileToRead=new File("shopFile.txt"); // sau orice nume ai dat la fisier
+            FileInputStream fis=new FileInputStream(fileToRead);
+            ObjectInputStream ois=new ObjectInputStream(fis);
+
+            Shop shopRead = (Shop)ois.readObject();
+//perform actions here
+            System.out.println(shop);
+            ois.close();
+            fis.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+
+        //read a new sho[p from file:
 
     }
 }
