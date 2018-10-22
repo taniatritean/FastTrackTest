@@ -12,7 +12,7 @@ public class Person {
     public Person(String firstName, String lastName, String phoneNumber) {
         this.firstName = firstName;
         this.lastName = lastName;
-        validatePhoneNumber(phoneNumber);
+        this.phoneNumber = phoneNumber;
     }
 
     public String getFirstName() {
@@ -36,17 +36,21 @@ public class Person {
     }
 
     public void setPhoneNumber(String phoneNumber) {
-        validatePhoneNumber(phoneNumber);
+        this.phoneNumber = phoneNumber;
     }
 
-    private void validatePhoneNumber(String phoneNumber) {
-        for (int index = 0; index < phoneNumber.length(); index++) {
-            char characterOfString = phoneNumber.charAt(index);
-            if (characterOfString >= 48 && characterOfString <= 57) {
-                this.phoneNumber = phoneNumber;
-            } else
-                throw new IllegalArgumentException("Nu este un numar de telefon.");
-        }
-    }
+//    private void validatePhoneNumber(String phoneNumber) {
+//        for (int index = 0; index < phoneNumber.length(); index++) {
+//            char characterOfString = phoneNumber.charAt(index);
+//            if (characterOfString >= 48 && characterOfString <= 57) {
+//                this.phoneNumber = phoneNumber;
+//            } else
+//                throw new IllegalArgumentException("Nu este un numar de telefon.");
+//        }
+//    }
 
+    @Override
+    public String toString() {
+        return  firstName + " " + lastName + " " + phoneNumber;
+    }
 }

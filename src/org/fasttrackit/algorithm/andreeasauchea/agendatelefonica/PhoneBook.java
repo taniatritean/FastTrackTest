@@ -10,6 +10,17 @@ public class PhoneBook {
 
     }
 
+    public static int nrPersoane = 0;
+
+    public void add(Person person){
+        nrPersoane ++;
+        personList.add(person);
+    }
+
+    public static int getNrPersoane() {
+        return nrPersoane;
+    }
+
     public void create(String firstName, String lastName, String phoneNumber){
         Person person = new Person(firstName, lastName, phoneNumber);
         personList.add(person);

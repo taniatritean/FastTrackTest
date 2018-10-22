@@ -30,7 +30,7 @@ public class FilesUtil {
 
     }
 
-    private static void readFromFileStream(String filename) {
+    public static void readFromFileStream(String filename) {
         try {
             File fileToRead = new File(filename); // sau orice nume ai dat la fisier
             FileInputStream fis = new FileInputStream(fileToRead);
