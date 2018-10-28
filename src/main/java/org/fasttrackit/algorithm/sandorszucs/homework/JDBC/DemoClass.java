@@ -9,16 +9,29 @@ public class DemoClass {
         String url = "jdbc:postgresql://54.93.65.5:5432/sandor";
         String USERNAME = "fasttrackit_dev";
         String PASSWORD = "fasttrackit_dev";
-        String query = "SELECT * FROM public.\"Catalogue\"";
+
+        int userId = 5;
+        String userName = "Ali";
+        int userMark = 9;
+
+        String query = "INSERT INTO public.\"Catalogue\" VALUES (?,?,?)";
+
+
+
 
         Class.forName("org.postgresql.Driver");
         Connection con = DriverManager.getConnection(url,USERNAME,PASSWORD);
-        Statement st = con.createStatement();
-        ResultSet rs = st.executeQuery(query);
+        PreparedStatement st = con.prepareStatement(query);
 
-        rs.next();
-        String name = rs.getString("StudentName");
-        System.out.println(name);
+        st.setInt(1, userId);
+        st.setString(2, userName);
+        st.setInt(3, userMark);
+
+        int count = st.executeUpdate();
+
+        System.out.println(count + " row(s) affected");
+
+
 
         st.close();
         con.close();
