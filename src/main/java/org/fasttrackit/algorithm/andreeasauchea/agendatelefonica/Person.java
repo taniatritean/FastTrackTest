@@ -4,6 +4,7 @@ public class Person {
     private String firstName;
     private String lastName;
     private String phoneNumber;
+    private int id;
 
     public Person(){
 
@@ -13,6 +14,14 @@ public class Person {
         this.firstName = firstName;
         this.lastName = lastName;
         this.phoneNumber = phoneNumber;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getFirstName() {
